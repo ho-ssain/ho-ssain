@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hossain Kabir</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
