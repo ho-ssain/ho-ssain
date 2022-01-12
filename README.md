@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/gurucom/image/upload/w_1000,h_250,f_auto/static/GalleryCoverImgs/100/Programming_6.jpg)](https://rishavchanda.io)
+<!--[![MasterHead](https://res.cloudinary.com/gurucom/image/upload/w_1000,h_250,f_auto/static/GalleryCoverImgs/100/Programming_6.jpg)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Hossain Kabir</h1>
 <h3 align="center">A passionate programmer</h3>
