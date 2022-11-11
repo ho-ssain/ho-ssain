@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pexels.com/photo/blue-universe-956981)
+[![MasterHead](https://www.pexels.com/photo/blue-universe-956981/)
 
 <h1 align="center">Hi 👋, I'm Hossain K. M.</h1>
 <h3 align="center">A full-Stack JavaScript developer</h3>
