@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Hossain K. M.</h1>
 <h3 align="center">A full-Stack JavaScript developer</h3>
