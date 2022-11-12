@@ -46,7 +46,11 @@
     
 <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
 
-<!-- <p><img align="cemter" src="https://github-readme-stats.vercel.app/api/top-langs?username=ho-ssain&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ho-ssain" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" alt="ho-ssain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ho-ssain&theme=github-dark" alt="ho-ssain" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&show_icons=true&locale=en&layout=compact&theme=github_dark)](https://github.com/ho-ssain/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark)](https://github.com/ho-ssain/github-readme-stats)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ho-ssain&theme=github-dark)](https://git.io/streak-stats) 
+ 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ho-ssain&theme=github_dark&repo=github-readme-stats)](https://github.com/ho-ssain/github-readme-stats) -->
