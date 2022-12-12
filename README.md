@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hossain K. M.</h1>
-<h3 align="center">A Back-end Developer</h3>
+<h3 align="center">A Softwrae Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
