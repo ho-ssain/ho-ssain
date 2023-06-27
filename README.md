@@ -57,5 +57,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark)](https://github.com/ho-ssain/github-readme-stats)
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ho-ssain&theme=github-dark)](https://git.io/streak-stats) 
+
+![snake gif]
+(https://github.com/ho-ssain/ho-ssain/blob/output/github-contribution-grid-snake.gif)
+
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ho-ssain&theme=github_dark&repo=github-readme-stats)](https://github.com/ho-ssain/github-readme-stats) -->
