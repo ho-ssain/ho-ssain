@@ -63,7 +63,7 @@
 
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ho-ssain/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
   </a>
