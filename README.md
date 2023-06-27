@@ -58,8 +58,7 @@
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ho-ssain&theme=github-dark)](https://git.io/streak-stats) 
 
-![snake gif]
-(https://github.com/ho-ssain/ho-ssain/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ho-ssain/ho-ssain/blob/output/github-contribution-grid-snake.gif&theme=github-dark)
 
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ho-ssain&theme=github_dark&repo=github-readme-stats)](https://github.com/ho-ssain/github-readme-stats) -->
