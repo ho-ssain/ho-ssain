@@ -1,17 +1,8 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h2> "Hello World"
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h2> "Hi, I'm Hossain Kabir"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 </h2>
 
-<h3>I am Hossain Kabir </h3>
-<h4>A Software Engineer</h4>
-<h5>Interested in Full-stack development, Machine Learning, Blockchian</h5>
-
-<p>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
@@ -21,8 +12,19 @@
 - 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 - 📫 For professional inquiries or meaningful conversations, please reach out to me at awarehossain@gmail.com.
 
-<br/>
-<hr/>
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="20"> &nbsp; **Connect with Me !! 🤝** ️
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-hossain-kabir-2025a31ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-hossain-kabir-2025a31ab/" height="20" width="20" /></a>
+<a href="https://fb.com/https://www.facebook.com/hkonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hkonir" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/aware_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aware_hossain" height="20" width="20" /></a>
+</p>
+
+<p>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> &nbsp;**Languages:**
 
@@ -80,14 +82,7 @@
 <br/>
 <hr/>
 
-## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-hossain-kabir-2025a31ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-hossain-kabir-2025a31ab/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19877277/hossain-k-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19877277/hossain-k-m" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hkonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hkonir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aware_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aware_hossain" height="30" width="40" /></a>
-</p>
 
 <br/>
 <hr/>
