@@ -14,18 +14,6 @@
 
 </div>
 
-<h3>Featured Repository =: </h3>
-<div align="center">
-    <!-- info-hub -->
-    <a href="https://github.com/ho-ssain/info-hub#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=github_dark#gh-dark-mode-only" alt="info-hub">
-    </a>
-    <a href="https://github.com/ho-ssain/info-hub#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=vue#gh-light-mode-only" alt="info-hub">
-    </a>
-</div>
-     
-
 <div align="left">
 
 <h4> <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
@@ -40,8 +28,24 @@
     <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
+
 </div>
+
+
+
+<h3>Featured Repository =: </h3>
+<div align="center">
+    <!-- info-hub -->
+    <a href="https://github.com/ho-ssain/info-hub#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=github_dark#gh-dark-mode-only" alt="info-hub">
+    </a>
+    <a href="https://github.com/ho-ssain/info-hub#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=vue#gh-light-mode-only" alt="info-hub">
+    </a>
+</div>
+     
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
 
 </td>
