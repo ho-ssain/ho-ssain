@@ -4,11 +4,11 @@
 <td width="50%" valign="top">
 <div> 
 
-  ## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="60">  &nbsp; **👋Hi, I'm Hossain**
+  ##  &nbsp; **👋Hi, I'm Hossain**
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
-- 🔭 I'm presently practicing my Back-end developing skills.
-- 🌱 Currently, my focus lies in mastering Nest.js and React.js, while diligently constructing projects that facilitate hands-on learning.
+- 🔭 I'm presently practicing my front-end developing skills.
+- 🌱 Currently, my focus lies in mastering Angular and React.js, while diligently constructing projects that facilitate hands-on learning.
 - 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on TypeScript/Javascript projects.
 - 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
@@ -33,16 +33,7 @@
 
 
 
-<h3>Featured Repository =: </h3>
-<div align="center">
-    <!-- info-hub -->
-    <a href="https://github.com/ho-ssain/info-hub#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=github_dark#gh-dark-mode-only" alt="info-hub">
-    </a>
-    <a href="https://github.com/ho-ssain/info-hub#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=vue#gh-light-mode-only" alt="info-hub">
-    </a>
-</div>
+
      
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
@@ -52,18 +43,23 @@
 
      
 <td width="50%" valign="top">
-<div align="center">
-  <h3 align="left"> Skills =: </h3>
+<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400"> 
+  <div align="center">
+  <h3 align="left"> Stack =: </h3>
   
   [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img src='https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif' width="50" height="50" alt="angular" align="left">](https://angular.io/)
   [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
   [<img src='https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 </div>
+</td>
+</tr>
 
-<br>
-<br>
-<br>
+</table>
+
+
+
+
 
 <div align="left">
 
@@ -84,7 +80,15 @@
 </div>
 
 
-</td>
-</tr>
 
-</table>
+ <!-- <h3>Featured Repository =: </h3> -->
+<div align="center">
+    <!-- info-hub 
+    <a href="https://github.com/ho-ssain/info-hub#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=github_dark#gh-dark-mode-only" alt="info-hub">
+    </a>
+    <a href="https://github.com/ho-ssain/info-hub#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=vue#gh-light-mode-only" alt="info-hub">
+    </a>
+  -->
+</div> 
