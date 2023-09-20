@@ -43,7 +43,14 @@
 
      
 <td width="50%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400"> 
+  <div align="center">
+      <a href="https://github.com/ho-ssain/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
+</a>
+  </div>
+
+<!--
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300"> -->
   <div align="center">
   <h3 align="left"> Stack =: </h3>
   
@@ -52,23 +59,18 @@
   [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
   [<img src='https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 </div>
+
 </td>
 </tr>
-
+  
 </table>
 
 
 
 
 
-<div align="left">
-
-  <h3 align="left"> GitHub Analytics =: </h3>  
-  <p align="left">
-    <a href="https://github.com/ho-ssain/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
-    </a>
-    <br/>
+  <h3 align="center"> GitHub Analytics =: </h3>  
+  <p align="center">
     <a href="https://github.com/ho-ssain/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" alt="Anurag's GitHub stats">
     </a>
@@ -77,7 +79,7 @@
       <img src="https://streak-stats.demolab.com/?user=ho-ssain&theme=github-dark" alt="GitHub Streak">
     </a>
   </p>
-</div>
+
 
 
 
