@@ -59,7 +59,7 @@
   
   <div align="center">
       <a href="https://github.com/ho-ssain/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=8&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
 </a>
   </div>
 
