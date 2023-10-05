@@ -83,7 +83,7 @@
     </a>
     <br/>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=ho-ssain&theme=github-dark" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" alt="GitHub Streak">
     </a>
   </p>
 
