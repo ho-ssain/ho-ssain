@@ -46,7 +46,8 @@
 <td width="50%" valign="top">
 
   <div align="center">
-  <h3 align="left"> Stack =: </h3>
+<!--   <h3 align="left"> Stack =: </h3> -->
+  ### Stack =:
 
   [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img src='https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
