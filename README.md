@@ -4,7 +4,7 @@
 <td width="50%" valign="top">
 <div> 
 
-  ## &nbsp; **👋Hi, I'm Hossain**
+  ##  **👋Hi, I'm Hossain**
   
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
@@ -46,9 +46,7 @@
 <td width="50%" valign="top">
 
   <div align="center">
-<!--   <h3 align="left"> Stack =: </h3> -->
-  ### Stack =:
-
+  <h3 align="left"> Stack =: </h3>
   [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img src='https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img src='https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/CSS)
