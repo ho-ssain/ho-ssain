@@ -20,10 +20,10 @@
 <h4> <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
   
   <p align="left">
-    <a href="awarehossain@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="30" /></a>
-    <a href="https://twitter.com/awarehossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-    <a href="https://fb.com/https://www.facebook.com/hkonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hkonir" height="30" width="30" /></a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/aware_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aware_hossain" height="30" width="30" /></a>
+    <a href="awarehossain@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="30" /></a>
+    <a href="https://twitter.com/awarehossain" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
+    <a href="https://fb.com/https://www.facebook.com/hkonir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hkonir" height="30" width="30" /></a>
+    <a href="https://www.hackerrank.com/https://www.hackerrank.com/aware_hossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aware_hossain" height="30" width="30" /></a>
   </p>
 
   <p>
