@@ -90,6 +90,33 @@
 
 
 
+<div align="center">
+  <h3>Featured Repository =: </h3> 
+    <a href="https://github.com/ho-ssain/hkdev-MERN#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=hkdev-MERN&theme=github_dark#gh-dark-mode-only" alt="hkdev-MERN">
+    </a>
+    <a href="https://github.com/ho-ssain/walk-ease#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=hkdev-MERN&theme=vue#gh-light-mode-only" alt="hkdev-MERN">
+    </a>
+    <a href="https://github.com/ho-ssain/walk-ease#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=walk-ease&theme=github_dark#gh-dark-mode-only" alt="walk-ease">
+    </a>
+    <a href="https://github.com/ho-ssain/walk-ease#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=walk-ease&theme=vue#gh-light-mode-only" alt="walk-ease">
+    </a>
+     <a href="https://github.com/ho-ssain/fresh-cart#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=fresh-cart&theme=github_dark#gh-dark-mode-only" alt="fresh-cart">
+    </a>
+    <a href="https://github.com/ho-ssain/walk-ease#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=fresh-cart&theme=vue#gh-light-mode-only" alt="fresh-cart">
+    </a>
+       <a href="https://github.com/ho-ssain/travel_app_lp#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=travel_app_lp&theme=github_dark#gh-dark-mode-only" alt="travel_app_lp">
+    </a>
+    <a href="https://github.com/ho-ssain/travel_app_lp#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=travel_app_lp&theme=vue#gh-light-mode-only" alt="travel_app_lp">
+    </a>
+</div> 
 
 
   <h3 align="center"> GitHub Analytics =: </h3>  
@@ -110,14 +137,4 @@
 
 
 
- <!-- <h3>Featured Repository =: </h3> -->
-<div align="center">
-    <!-- info-hub 
-    <a href="https://github.com/ho-ssain/info-hub#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=github_dark#gh-dark-mode-only" alt="info-hub">
-    </a>
-    <a href="https://github.com/ho-ssain/info-hub#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=info-hub&theme=vue#gh-light-mode-only" alt="info-hub">
-    </a>
-  -->
-</div> 
+
