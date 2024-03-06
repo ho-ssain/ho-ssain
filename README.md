@@ -62,7 +62,7 @@
 <br><br>
   
   <div align="center">
-      <a href="https://github.com/ho-ssain/github-readme-stats">
+      <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
 </a>
   </div>
@@ -82,17 +82,17 @@
 
   <h3 align="center"> GitHub Analytics =: </h3>  
   <p align="center">
-    <a href="https://github.com/ho-ssain/github-readme-stats">
+    <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" alt="Anurag's GitHub stats">
     </a>
     <br/>
-    <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats" target="_blank">
       <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" alt="GitHub Streak">
     </a>
   </p>
 
 <p align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65dcbd7daec67f2e2aa0ad5c?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh" target-"_blank"><img src="https://api.roadmap.sh/v1-badge/wide/65dcbd7daec67f2e2aa0ad5c?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
 
