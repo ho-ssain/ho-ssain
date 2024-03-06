@@ -21,16 +21,16 @@
   
 
 <p align="left">
-  <a href="mailto:awarehossain@gmail.com" target="_blank">
+  <a href="mailto:awarehossain@gmail.com&target=_blank" >
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30px" height="30px">
   </a>
-  <a href="https://twitter.com/awarehossain" target="_blank">
+  <a href="https://twitter.com/awarehossain&target=_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="30px" height="30px">
   </a>
-  <a href="https://www.facebook.com/hkonir" target="_blank">
+  <a href="https://www.facebook.com/hkonir&target=_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30px" height="30px">
   </a>
-  <a href="https://www.hackerrank.com/aware_hossain" target="_blank">
+  <a href="https://www.hackerrank.com/aware_hossain&target=_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="30px" height="30px">
   </a>
 </p>
