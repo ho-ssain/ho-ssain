@@ -129,12 +129,3 @@
       <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" alt="GitHub Streak">
     </a>
   </p>
-
-<p align="center">
-<a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/65dcbd7daec67f2e2aa0ad5c?variant=dark" alt="roadmap.sh"/></a>
-</p>
-
-
-
-
-
