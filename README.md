@@ -1,4 +1,4 @@
-
+<!-- markdownlint-disable -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -8,8 +8,8 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
-- 🔭 I'm presently practicing my front-end developing skills.
-- 🌱 Currently, my focus lies in mastering Angular and React.js, while diligently constructing projects that facilitate hands-on learning.
+- 🔭 I'm presently practicing my back-end developing skills.
+- 🌱 Currently, my focus lies in mastering Angular.js and Nest.js, while diligently constructing projects that facilitate hands-on learning.
 - 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on TypeScript/Javascript projects.
 - 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
@@ -62,12 +62,23 @@
   <h2 align="left"> Stack =: </h3>
 
   [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img src='https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img src='https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
-  [<img src='https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif' width="50" height="50" alt="angular" align="left">](https://angular.io/)
-  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
+
   [<img src='https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
+
+
+  [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
+
+  [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
+
+  [<img src='https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
+
+  [<img src='./assets/angular.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
+
+  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
+
+
+
+
 </div>
 
 <br><br>
