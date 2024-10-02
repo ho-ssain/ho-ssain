@@ -63,7 +63,7 @@
 
   <!-- [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
 
-=>Node.js &nbsp; [<img src='./assets/node.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
+[<img src='./assets/node.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en) &nbsp; =>Node.js
 <br>
   <!-- [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
   [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/) -->
