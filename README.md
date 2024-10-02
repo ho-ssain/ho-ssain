@@ -71,6 +71,7 @@
 
 [<img src='https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
+<br>
 
 [<img src='./assets/angular.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
 
