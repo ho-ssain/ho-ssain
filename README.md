@@ -4,6 +4,8 @@
 <td width="50%" valign="top">
 <div>
 
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300"> -->
+
 # &nbsp; **👋Hi, I'm Hossain**
 
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
@@ -24,14 +26,12 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30px" height="30px">
   </a>
   <a href="https://twitter.com/awarehossain" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="30px" height="30px">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30px" height="30px">
   </a>
   <a href="https://www.facebook.com/hkonir" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30px" height="30px">
   </a>
-  <a href="https://www.hackerrank.com/aware_hossain" >
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="30px" height="30px">
-  </a>
+
 </p>
 
   <p>
@@ -46,64 +46,47 @@
 
 <td width="50%" valign="top">
 
-  <div align="center">
+<div align="center">
 
-  <h3 align="left"> Stack =: </h3>
+### 🛠 &nbsp;Tech Stack
 
-  <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-  <!-- [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
-
-  <!-- [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
-  [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/) -->
-
-  <!-- [<img src='./assets/images-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-
-  [<img src='./assets/ts-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-
-
-  [<img src='./assets/node-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-
-  [<img src='./assets/nest-js-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-
-  [<img src='./assets/angular-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
-
-  [<img src='./assets/NgRx-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
-  
-  [<img src='./assets/rxjs-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
-
-  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/) -->
 
 </div>
 
 <br><br>
-<br><br>
 
-  <div align="center">
-      <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
-</a>
-  </div>
+<div align="center">
+  <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
+  </a>
+</div>
 
-<!--
-  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300"> -->
+
 
 </td>
 </tr>
   
 </table>
+
+
+
 
 <div align="center">
   <h3>Featured Repository =: </h3> 
