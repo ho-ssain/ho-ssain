@@ -63,22 +63,25 @@
 
   <!-- [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
 
-[<img src='./assets/node.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en) 
- 
   <!-- [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
   [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/) -->
 
+  [<img src='./assets/images-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
-[<img src='https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-
-
-
-[<img src='./assets/angular.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
+  [<img src='./assets/ts-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
 
-[<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
+  [<img src='./assets/node-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
+  [<img src='./assets/nest-js-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
+  [<img src='./assets/angular-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
+
+  [<img src='./assets/NgRx-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
+  
+  [<img src='./assets/rxjs-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
+
+  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
 
 
 </div>
