@@ -2,10 +2,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<div> 
+<div>
 
-  # &nbsp; **👋Hi, I'm Hossain**
-  
+# &nbsp; **👋Hi, I'm Hossain**
+
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
 - 🔭 I'm presently practicing my back-end developing skills.
@@ -18,7 +18,6 @@
 <div align="left">
 
 <h4> <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
-  
 
 <p align="left">
   <a href="mailto:awarehossain@gmail.com" >
@@ -35,38 +34,42 @@
   </a>
 </p>
 
-
-
-
   <p>
     <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
 
-
 </div>
-
-
-
-
-     
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
 
-
 </td>
 
-     
 <td width="50%" valign="top">
 
   <div align="center">
-  <h2 align="left"> Stack =: </h3>
+
+  <h3 align="left"> Stack =: </h3>
+
+  <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
 
   <!-- [<img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
 
   <!-- [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
   [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/) -->
 
-  [<img src='./assets/images-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
+  <!-- [<img src='./assets/images-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
   [<img src='./assets/ts-preview.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
 
@@ -81,14 +84,13 @@
   
   [<img src='./assets/rxjs-preview.png' width="50" height="50" alt="angular" align="left">](https://angular.io/)
 
-  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/)
-
+  [<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width="50" height="50" alt="react" align="left">](https://react.dev/) -->
 
 </div>
 
 <br><br>
 <br><br>
-  
+
   <div align="center">
       <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=pie&theme=github_dark" alt="Top Languages">
@@ -98,13 +100,10 @@
 <!--
   <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300"> -->
 
-
 </td>
 </tr>
   
 </table>
-
-
 
 <div align="center">
   <h3>Featured Repository =: </h3> 
@@ -132,8 +131,7 @@
     <a href="https://github.com/ho-ssain/travel_app_lp#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=travel_app_lp&theme=vue#gh-light-mode-only" alt="travel_app_lp">
     </a>
-</div> 
-
+</div>
 
   <h3 align="center"> GitHub Analytics =: </h3>  
   <p align="center">
