@@ -65,7 +65,7 @@
 
 => Node.js
 [<img src='./assets/node.png' width="50" height="50" alt="node" align="left">](https://nodejs.org/en)
-<br>
+
   <!-- [<img src='./assets/js.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/)
   [<img src='./assets/ts.png' width="50" height="50" alt="skills" align="left">](https://developer.mozilla.org/en-US/) -->
 
