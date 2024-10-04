@@ -46,17 +46,28 @@
 
 ### 🛠 &nbsp;Tech I Like
 <div>
-<img src="./assets/angular-preview.png" height="30" width="30">
-<img src="./assets/NgRx-preview.png" height="30" width="30">
-<img src="./assets/rxjs-preview.png" height="30" width="30">
-<img src="./assets/node-preview.png" height="30" width="30">
-<img src="./assets/images-preview.png" height="30" width="30">
-<img src="./assets/ts-preview.png" height="30" width="30">
+<img src="./assets/angular-preview.png" height="30">
+<img src="./assets/NgRx-preview.png" height="30" >
+<img src="./assets/rxjs-preview.png" height="30">
+<img src="./assets/angular-material.png" height="30">
+<img src="./assets/PrimeNG.png" height="30">
+<img src="./assets/sass.png" height="30">
+<img src="./assets/karma.png" height="30">
+<img src="./assets/jasmine.png" height="30">
+
+<img src="./assets/node-preview.png" height="30">
+<img src="./assets/nest-js-preview.png" height="30">
+<img src="./assets/mysql.png" height="30">
+<img src="./assets/mgdb.png" height="30">
+<img src="./assets/gql.png" height="30">
+<img src="./assets/jest.png" height="30">
+<img src="./assets/js.png" height="30">
+<img src="./assets/ts-preview.png" height="30">
 </div>
 
 
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
