@@ -50,6 +50,9 @@
 <img src="./assets/NgRx-preview.png" height="30" >
 <img src="./assets/rxjs-preview.png" height="30">
 <img src="./assets/angular-material.png" height="30">
+
+<hr>
+
 <br>
 <img src="./assets/PrimeNG.png" height="30">
 <img src="./assets/sass.png" height="30">
