@@ -4,8 +4,6 @@
 <td width="50%" valign="top">
 <div>
 
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300"> -->
-
 # &nbsp; **👋Hi, I'm Hossain**
 
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
@@ -46,24 +44,15 @@
 
 <td width="50%" valign="top">
 
-### 🛠 &nbsp;Tech Stack
-
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### 🛠 &nbsp;Tech I Like
+<div>
+<img src="./assets/angular-preview.png" height="30" width="30">
+<img src="./assets/NgRx-preview.png" height="30" width="30">
+<img src="./assets/rxjs-preview.png" height="30" width="30">
+<img src="./assets/node-preview.png" height="30" width="30">
+<img src="./assets/images-preview.png" height="30" width="30">
+<img src="./assets/ts-preview.png" height="30" width="30">
+</div>
 
 
 
