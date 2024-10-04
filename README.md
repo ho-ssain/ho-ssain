@@ -45,7 +45,7 @@
 <td width="50%" valign="top">
 
 ### 🛠 &nbsp;Tech I Like
-<div>
+<div align="center">
 <img src="./assets/angular-preview.png" height="30">
 <img src="./assets/NgRx-preview.png" height="30" >
 <img src="./assets/rxjs-preview.png" height="30">
