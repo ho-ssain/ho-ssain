@@ -71,8 +71,8 @@
 <img src="./assets/linux.jpg" height="30">
 <img src="./assets/git-bash-logo.png" height="25">
 <br>
-<img src="./assets/docker.png" height="30">
-<img src="./assets/kubernetes.png" height="30">
+<!-- <img src="./assets/docker.png" height="30"> -->
+<!-- <img src="./assets/kubernetes.png" height="30"> -->
 <img src="./assets/code.png" height="30">
 <img src="./assets/postman.png" height="30">
 </div>
