@@ -96,6 +96,7 @@
 
 
 
+<!-- 
 
 <div align="center">
   <h3>Featured Repository =: </h3> 
@@ -125,13 +126,25 @@
     </a>
 </div>
 
-  <h3 align="center"> GitHub Analytics =: </h3>  
-  <p align="center">
-    <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" alt="Anurag's GitHub stats">
-    </a>
-    <br/>
-    <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" alt="GitHub Streak">
-    </a>
-  </p>
+-->
+
+<h3 align="center"> GitHub Analytics 📊 </h3>  
+<p align="center">
+  <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" 
+      alt="GitHub Stats" 
+      width="400"
+      height="200"
+    >
+  </a>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img 
+      src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" 
+      alt="GitHub Streak" 
+      width="400"
+      height="200"
+    >
+  </a>
+</p>
+
