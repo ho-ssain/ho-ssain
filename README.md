@@ -47,9 +47,10 @@
 ### 🛠 &nbsp;Tech I Like
 <div align="center">
 <img src="./assets/React.png" height="30">
-<img src="./assets/Next.png" height="30">
+<img src="./assets/Next.js.png" height="30">
 <img src="./assets/Redux.png" height="30">
 <img src="./assets/Python.png" height="30">
+<br />
 <img src="./assets/angular-preview.png" height="30">
 <img src="./assets/NgRx-preview.png" height="30" >
 <img src="./assets/rxjs-preview.png" height="30">
