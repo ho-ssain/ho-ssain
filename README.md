@@ -46,9 +46,9 @@
 
 ### 🛠 &nbsp;Tech I Like
 <div align="center">
-<img src="./assets/React.png" height="30">
-<img src="./assets/Next.js.png" height="30">
-<img src="./assets/Redux.png" height="30">
+<img src="./assets/js.png" height="30">
+<img src="./assets/ts-preview.png" height="30">
+<img src="./assets/node-preview.png" height="30">
 <img src="./assets/Python.png" height="30">
 <br />
 <img src="./assets/angular-preview.png" height="30">
@@ -61,15 +61,15 @@
 <img src="./assets/karma.png" height="30">
 <img src="./assets/jasmine.png" height="30">
 <br>
-<img src="./assets/node-preview.png" height="30">
+<img src="./assets/Redux.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30">
 <img src="./assets/mysql.png" height="30">
 <img src="./assets/mgdb.png" height="30">
 <br>
+<img src="./assets/React.png" height="30">
+<img src="./assets/Next.js.png" height="30">
 <img src="./assets/gql.png" height="30">
 <img src="./assets/jest.png" height="30">
-<img src="./assets/js.png" height="30">
-<img src="./assets/ts-preview.png" height="30">
 <br>
 <img src="./assets/html5.png" height="30">
 <img src="./assets/css3.png" height="24">
