@@ -1,17 +1,17 @@
 <!-- markdownlint-disable -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 <div>
 
 # &nbsp; **👋Hi, I'm Hossain**
 
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
-- 🔭 I'm presently practicing my back-end developing skills.
-- 🌱 Currently, my focus lies in mastering Angular.js and Nest.js, while diligently constructing projects that facilitate hands-on learning.
-- 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on TypeScript/Javascript projects.
-- 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
+- Software Engineer | Stoic Philosopher | AI Educator | Web3 Enthusiast.
+- Currently Working at Connect Auz Pty Ltd
+- I study, teach and explore AI, Web3 and tech tools sharing easy ways to use them.
+- With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
 </div>
 
@@ -42,59 +42,7 @@
 
 </td>
 
-<td width="50%" valign="top">
 
-### 🛠 &nbsp;Tech I Like
-<div align="center">
-<img src="./assets/js.png" height="30">
-<img src="./assets/ts-preview.png" height="30">
-<img src="./assets/node-preview.png" height="30">
-<img src="./assets/Python.png" height="30">
-<br />
-<img src="./assets/angular-preview.png" height="30">
-<img src="./assets/NgRx-preview.png" height="30" >
-<img src="./assets/rxjs-preview.png" height="30">
-<img src="./assets/angular-material.png" height="30">
-<br>
-<img src="./assets/PrimeNG.png" height="30">
-<img src="./assets/sass.png" height="30">
-<img src="./assets/karma.png" height="30">
-<img src="./assets/jasmine.png" height="30">
-<br>
-<img src="./assets/Redux.png" height="30">
-<img src="./assets/nest-js-preview.png" height="30">
-<img src="./assets/mysql.png" height="30">
-<img src="./assets/mgdb.png" height="30">
-<br>
-<img src="./assets/React.png" height="30">
-<img src="./assets/Next.js.png" height="30">
-<img src="./assets/gql.png" height="30">
-<img src="./assets/jest.png" height="30">
-<br>
-<img src="./assets/html5.png" height="30">
-<img src="./assets/css3.png" height="24">
-<img src="./assets/linux.jpg" height="30">
-<img src="./assets/git-bash-logo.png" height="25">
-<br>
-<!-- <img src="./assets/docker.png" height="30"> -->
-<!-- <img src="./assets/kubernetes.png" height="30"> -->
-<img src="./assets/code.png" height="30">
-<img src="./assets/postman.png" height="30">
-</div>
-
-<hr>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
-  </a>
-</div>
-
-
-
-</td>
 </tr>
   
 </table>
