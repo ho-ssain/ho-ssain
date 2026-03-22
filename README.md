@@ -4,7 +4,7 @@
 <td valign="top">
 <div>
 
-# &nbsp; **👋Hi, I'm Hossain**
+# &nbsp;👋Hi, I'm Hossain
 <p><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
 - Software Engineer | Stoic Philosopher | AI Educator | Web3 Enthusiast.
