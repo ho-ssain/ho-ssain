@@ -5,6 +5,7 @@
 <div>
 
 # &nbsp; **👋Hi, I'm Hossain**
+<p><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
 - Software Engineer | Stoic Philosopher | AI Educator | Web3 Enthusiast.
 - Currently Working at Connect Auz Pty Ltd
@@ -28,8 +29,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30px" height="30px">
   </a>
 </p>
-
-<p><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 </div>
 
