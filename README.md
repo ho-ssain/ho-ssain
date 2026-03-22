@@ -6,7 +6,6 @@
 
 # &nbsp;👋Hi, I'm Hossain
 
-<p><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
 - Software Engineer | Stoic Philosopher | AI Educator | Web3 Enthusiast.
 - Currently Working at Connect Auz Pty Ltd
@@ -14,6 +13,7 @@
 - With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
 </div>
+<p><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <div align="left">
 
