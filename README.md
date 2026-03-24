@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="mailto:awarehossain@gmail.com" >
-    <img src="./assets/gmail.png" alt="gmail" width="30px" height="30px">
+    <img src="./assets/email.png" alt="gmail" width="30px" height="30px">
   </a>
   <a href="https://twitter.com/awarehossain" >
     <img src="./assets/twitter.png" alt="twitter" width="30px" height="30px">
