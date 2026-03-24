@@ -21,13 +21,13 @@
 
 <p align="left">
   <a href="mailto:awarehossain@gmail.com" >
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30px" height="30px">
+    <img src="./assets/gmail.png" alt="gmail" width="30px" height="30px">
   </a>
   <a href="https://twitter.com/awarehossain" >
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30px" height="30px">
+    <img src="./assets/twitter.png" alt="twitter" width="30px" height="30px">
   </a>
   <a href="https://www.facebook.com/hkonir" >
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30px" height="30px">
+    <img src="./assets/facebook.png" alt="facebook" width="30px" height="30px">
   </a>
 </p>
 
