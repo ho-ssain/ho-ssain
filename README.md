@@ -4,7 +4,7 @@
 <td valign="top">
 <div>
 
-# &nbsp;👋Hi, I'm Hossain
+# &nbsp;👋Hi, I'm Hossain <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40">
 
   
 - Software Engineer | Stoic Philosopher | AI Educator | Web3 Enthusiast.
@@ -17,7 +17,7 @@
 
 <div align="left">
 
-<h4> <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
+<h4>For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
 
 <p align="left">
   <a href="mailto:awarehossain@gmail.com" >
@@ -41,17 +41,14 @@
 <img src="./assets/ts-preview.png" height="30">
 <img src="./assets/node-preview.png" height="30">
 <img src="./assets/Python.png" height="30">
-<br />
 <img src="./assets/angular-preview.png" height="30">
 <img src="./assets/NgRx-preview.png" height="30" >
 <img src="./assets/rxjs-preview.png" height="30">
 <img src="./assets/angular-material.png" height="30">
-<br>
 <img src="./assets/PrimeNG.png" height="30">
 <img src="./assets/sass.png" height="30">
 <img src="./assets/karma.png" height="30">
 <img src="./assets/jasmine.png" height="30">
-<br>
 <img src="./assets/Redux.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30">
 <img src="./assets/mysql.png" height="30">
@@ -61,12 +58,10 @@
 <img src="./assets/Next.js.png" height="30">
 <img src="./assets/gql.png" height="30">
 <img src="./assets/jest.png" height="30">
-<br>
 <img src="./assets/html5.png" height="30">
 <img src="./assets/css3.png" height="24">
 <img src="./assets/linux.jpg" height="30">
 <img src="./assets/git-bash-logo.png" height="25">
-<br>
 <!-- <img src="./assets/docker.png" height="30"> -->
 <!-- <img src="./assets/kubernetes.png" height="30"> -->
 <img src="./assets/code.png" height="30">
